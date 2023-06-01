@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Beer Store API", "Beer Store API.csproj", "{E7DF4FAD-FBE8-45D7-B4EA-47F37DB6FA62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Beer Store API UnitTest", "..\Beer Store API UnitTest\Beer Store API UnitTest.csproj", "{72FFE63E-8C0C-4048-911E-143D8F5E4328}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DF4FAD-FBE8-45D7-B4EA-47F37DB6FA62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DF4FAD-FBE8-45D7-B4EA-47F37DB6FA62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DF4FAD-FBE8-45D7-B4EA-47F37DB6FA62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DF4FAD-FBE8-45D7-B4EA-47F37DB6FA62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72FFE63E-8C0C-4048-911E-143D8F5E4328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72FFE63E-8C0C-4048-911E-143D8F5E4328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72FFE63E-8C0C-4048-911E-143D8F5E4328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72FFE63E-8C0C-4048-911E-143D8F5E4328}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EBCD84C-E188-4660-B694-A25C49861BA1}
+	EndGlobalSection
+EndGlobal

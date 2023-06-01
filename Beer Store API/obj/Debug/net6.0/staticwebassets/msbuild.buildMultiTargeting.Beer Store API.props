@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Beer Store API.props" />
+</Project>
